@@ -38,7 +38,7 @@ Kafka, servisler arası gevşek bağlı (event-driven ) iletişim için kullanı
 ## Zipkin
 Yaml içinde management.tracing.sampling.probability=1.0 ayarıyla tüm isteklerde trace kaydı yapıldı.
 
-Zipkin, Docker container olarak çalıştırıldı ve http://localhost:9411 portundan erişilir.
+Zipkini, Docker container olarak çalıştırdım ve http://localhost:9411 portundan eriştim.
 
 Spring Cloud Sleuth ve Micrometer Tracing kullanılarak mikroservisler arası çağrılar izlenir.
 Bu sayede loglama, metrik toplama, dağıtık trace (izleme) özellikleri bir arada sağlanmış oldu.
@@ -73,9 +73,12 @@ Kafka Ekran Çıktısı
 
 
 
+
+
 Zipkin 
 
-<img width="949" height="528" alt="zipkin" src="https://github.com/user-attachments/assets/0ad70b20-8367-4b57-bf60-e8991317f1e0" />
+
+<img width="898" height="532" alt="zipkin" src="https://github.com/user-attachments/assets/506a30d9-c1e7-46e3-bced-b6b70444640f" />
 
 
 Eureka Kayıt
