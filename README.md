@@ -64,3 +64,10 @@ studentService, öğrenci verisini sağlar.
 Kafka mesajları başka servisler tarafından dinlenebilir.
 
 Zipkin ile tüm servis çağrıları ve istekler izlenir, performans ve hata analizi yapılabilir.
+
+<img width="950" height="581" alt="kafka" src="https://github.com/user-attachments/assets/03ab55e5-ed12-4b4c-ac03-9ba151414634" />
+
+<img width="949" height="528" alt="zipkin" src="https://github.com/user-attachments/assets/0ad70b20-8367-4b57-bf60-e8991317f1e0" />
+
+<img width="949" height="527" alt="Eureka" src="https://github.com/user-attachments/assets/6007b5eb-5c58-418f-b2ad-79612f092c0b" />
+
